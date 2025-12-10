@@ -13,24 +13,20 @@ Below are **example input images** and the corresponding **Grad-CAM outputs**.
 
 ---
 
-## 🖼️ Example Input Images
+## Example Input Images
 
-**Dog Input:**
-
-![Dog Input](assets/dog_input.jpg)
+### Dog Input:
+![Dog Input](dog_input.jpg)
 
 ---
 
-Example Grad-CAM Outputs (Model Attention)
+## Example Grad-CAM Outputs (Model Attention)
 
-**Cat Grad-CAM:**
+### Cat Grad-CAM:
+![Cat GradCAM](cat_gradcam.jpg)
 
-![Cat GradCAM](assets/cat_gradcam.jpg)
-
-**Dog Grad-CAM:**
-
-![Dog GradCAM](assets/dog_gradcam.jpg)
-
+### Dog Grad-CAM:
+![Dog GradCAM](dog_gradcam.jpg)
 ---
 
 Features
