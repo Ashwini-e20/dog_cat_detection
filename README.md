@@ -1,8 +1,6 @@
-Cat vs Dog Classifier with Grad-CAM 
+# Cat vs Dog Classifier with Grad-CAM 
 
-**Repository:** `cat-dog-detection`  
-**Author:** Ash P  
-**Status:** Prototype / Colab-ready  
+
 
 ---
 
